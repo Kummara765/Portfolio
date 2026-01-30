@@ -14,7 +14,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(BASE_DIR, 'data.json')
 RESUME_FILE = os.path.join(BASE_DIR, 'resume.pdf') 
 ADMIN_PASSWORD = "admin" 
-CONTACT_EMAIL = "jithendrareddypunuru@gmail.com" # <--- UPDATED EMAIL
+CONTACT_EMAIL = "kummarasukanyasukanya@gmail.com" # <--- UPDATED EMAIL
 
 st.set_page_config(layout="wide", page_title="Portfolio", page_icon="🧑‍💻")
 
